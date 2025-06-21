@@ -1,3 +1,4 @@
 # Ignore all .csv and .parquet files
 *.csv
 *.parquet
+*.parquet.brotli
